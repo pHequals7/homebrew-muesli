@@ -1,6 +1,6 @@
 cask "muesli" do
-  version "0.6.6"
-  sha256 "061f50689a5e26379cbc9733d57470385f82259833f472eb73ee5870fca198be"
+  version "0.6.7"
+  sha256 "05796e641dae78ce1a6ee6dbfacd8621f0cf6c226f1e8c5815a8c96eff7aa5bf"
 
   url "https://github.com/pHequals7/muesli/releases/download/v#{version}/Muesli-#{version}.dmg",
       verified: "github.com/pHequals7/muesli/"
